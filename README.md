@@ -1,4 +1,5 @@
-# Hi Iam Nitin V R 
+# Hi!
+# Iam Nitin V R! 
 # 💫 About Me:
 🔭 I'm currently working on mastering AI and integrating it.<br>🖖 Let's collaborate and make a awesome systems together.<br> 
 
