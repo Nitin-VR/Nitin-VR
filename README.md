@@ -1,7 +1,7 @@
+#                     👋 Hi, I'm Nitin V R
 
 <div align="center">
-# 👋 Hi, I'm Nitin V R
-git 
+
 ### AI Enthusiast • Developer • Lifelong Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Awesome+Systems;Python+%7C+C%2B%2B+%7C+Machine+Learning;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
